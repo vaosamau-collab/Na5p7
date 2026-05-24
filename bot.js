@@ -45,4 +45,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login("هنا_الصق_التوكن_حقك_بدون_أقواس_تنصيص_بس_تأكد_انه_كامل");
