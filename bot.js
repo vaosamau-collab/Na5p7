@@ -45,4 +45,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login("هنا_الصق_التوكن_حقك_بدون_أقواس_تنصيص_بس_تأكد_انه_كامل");
+client.login("MTUwNzg2OTg1MTI0MTQxODg2Mg.G2cqFx.0NWYIYx0iPfSqFKiZcP37hlaYJk1JdlgZeuPNM");
